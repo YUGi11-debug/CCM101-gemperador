@@ -1,1 +1,2 @@
-
+# Reflection
+This lab experience significantly deepened my comprehension of cloud-based Linux systems. I gained proficiency in fundamental Linux commands, user account creation and management, directory navigation, and accessing essential system data. Furthermore, I developed skills in organizing lab files and documenting my progress with Markdown. Utilizing and maintaining a GitHub repository proved instrumental in learning effective methods for managing technical files and documentation. Ultimately, this exercise enhanced my foundational understanding of Linux and cloud computing, equipping me with practical skills that will undoubtedly be beneficial for subsequent laboratory work. 
